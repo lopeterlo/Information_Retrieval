@@ -104,16 +104,8 @@ venv.bak/
 .mypy_cache/
 
 # my ignore
-<<<<<<< HEAD
 IRTM/
 *.pptx
 *.pages
 *.pdf
 *.csv
-=======
-/IRTM
-.pptx
-.pages
-.pdf
-.csv
->>>>>>> origin/master
